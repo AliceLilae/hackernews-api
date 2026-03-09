@@ -4,6 +4,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
 ![Docker](https://img.shields.io/badge/docker-container-blue)
 ![pytest](https://img.shields.io/badge/tests-pytest-yellow)
+![Tests](https://github.com/AliceLilae/hackernews-api/actions/workflows/tests.yml/badge.svg)
 
 A backend API that scrapes Hacker News and exposes structured article data through a clean REST interface.
 
